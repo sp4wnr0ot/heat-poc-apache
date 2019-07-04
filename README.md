@@ -4,6 +4,6 @@ Use this template to show the value of demo heat in OpenStack orchestration apac
 
 ## Usage
 
-# heat stack-create autoscaling.yml
+heat stack-create autoscaling.yml
 
 
